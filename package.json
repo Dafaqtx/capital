@@ -1,0 +1,14 @@
+{
+  "name": "capital",
+  "version": "0.0.1",
+  "description": "Project desc",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Alexander Kuchuk",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^4.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-minify": "^3.1.0"
+  }
+}

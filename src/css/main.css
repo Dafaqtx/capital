@@ -1,0 +1,8 @@
+.user__item {
+    cursor: pointer;
+}
+
+.modal.modal--active {
+    display: block;
+    background: rgba(0, 0, 0, .7);
+}
